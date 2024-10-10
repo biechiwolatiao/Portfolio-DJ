@@ -1,26 +1,26 @@
 {
   "Product": {
-    "name": "ScriptCraft",
-    "solgan": "创意到剧本，AI全程助力。"
+    "name": "智能卫浴",
+    "solgan": "完整你的洗浴，让你清晨一光。"
   },
   "LandingPage": {
     "Index": {
-      "title": "ScriptCraft"
+      "title": "终极智能卫浴创作工作品台"
     },
     "Hero": {
-      "title": "终极剧本创作工作平台",
-      "description": "逐场景打造您的故事。使用我们直观的工具和协作功能，提升您的剧本创作过程。",
+      "title": "终极智能卫浴创作工作品台",
+      "description": "逐场景打造清晨故事，使用我们直观的产品，提升你的生活体验。",
       "cta": "开始使用"
     },
     "Features": {
       "title": "主要功能",
       "characterProfile": {
-        "title": "角色档案生成器",
-        "description": "轻松创建详细的角色档案。"
+        "title": "产品选择",
+        "description": "轻松体验体档案。"
       },
       "storyStructure": {
         "title": "故事结构",
-        "description": "使用强大的结构工具组织您的故事。"
+        "description": "使用强大卫浴体验组织您的故事。"
       },
       "sceneEditor": {
         "title": "场景编辑器",
